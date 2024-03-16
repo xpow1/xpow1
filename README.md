@@ -6,7 +6,6 @@
 
 
 - 🔭 I’m currently working on Flask
-- 🌱 I’m currently learning  Flask
 - - 🌱 I’m currently learning .
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with ...
